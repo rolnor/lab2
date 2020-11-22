@@ -1,11 +1,9 @@
-#include <iostream>
 #include <lab2lib.h>
 
 
 int main()
 {
 	char choise;
-
 
 	while (true)
 	{
@@ -138,6 +136,5 @@ int main()
 			}
 		}
 	}
-	return 0;
-    
+	return 0;   
 }
