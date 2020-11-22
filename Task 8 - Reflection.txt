@@ -1,0 +1,18 @@
+-What did you learn? 
+Building and includiong static library. 
+Refreshing forgotten knowledge.
+
+-What did you know already?
+Most of the course but done a long time ago.
+
+-What was difficult in the lab? How did you overcome it?
+Setting up the project in visual studio and finding misstakes made during the learning process.
+Found solutions by internet lookup of error codes.
+
+-How can the lab be improved?
+Clearer boundries of what is allowed. Ex is only one parameter allowed when
+passing an array to a function. 
+func(array) vs func(array,size)
+
+-Additionally, write an estimate how many hours you spent on this lab.
+Lost track of time but about 2 days of work.
